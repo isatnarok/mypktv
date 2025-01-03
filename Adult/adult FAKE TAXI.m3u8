@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playme.com/i-came-from-this-page-i-sware
 http://88b9da48.kazmazpaz.ru/iptv/6ESD8RFEN3KF87/6202/manifest.m3u8
