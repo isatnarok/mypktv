@@ -1,6 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=134127&extension=m3u8
