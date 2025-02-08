@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://typhoonott.com:2052/play/live.php?mac=00:1A:79:57:33:B6&stream=337935&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://m1-max.dns-speedy.com:80/310533129D4368C/09D46A497281017/362737?play_token=5bIRPMVs7P
+#http://typhoonott.com:2052/play/live.php?mac=00:1A:79:57:33:B6&stream=337935&extension=m3u8
 #http://ares-tv.xyz:8080/play/live.php?mac=A0:BB:3E:00:0E:9C&stream=562139&extension=m3u8
 
