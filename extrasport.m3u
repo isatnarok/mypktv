@@ -1,4 +1,68 @@
 #EXTM3U
+<==========SPOTV TH==========>
+
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball1.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/14b307448a75cbd4e.png",EPL1
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL1.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball1.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/14b307448a75cbd4e.png",EPL1 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball2.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/2f98dc32c3a946846.png",EPL2
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball2.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/2f98dc32c3a946846.png",EPL2 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball3.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/3f82c4f8a7131c506.png",EPL3
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL3.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball3.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/3f82c4f8a7131c506.png",EPL3 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball4.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/4395e2a8a5f83e84b.png",EPL4
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL4.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball4.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/4395e2a8a5f83e84b.png",EPL4 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/51aca913fee52da72.png",EPL5
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL5.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/51aca913fee52da72.png",EPL5 สำรอง
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/166480245590a57d5361c8dfa3.png",TSP1
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp1/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/22b2079db7185fa780.png",TSP2
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp2/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/33737d0f4ca1ed3ade.png",TSP3
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp3/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img2.pic.in.th/pic/44fd0962caad31f61f.png",TSP4
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp4/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball5.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/551d47ed88e7d22a12.png",TSP5
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp5/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/77b882ae695399f443.png",TSP7
+https://cdn-la2.aws-stream.com/ondemand/od3/tsp7/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/ten.png",TENNIS
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truetennis.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/1a3d6b28f1a2a439a.png",BEIN1
+https://cdn-la2.aws-stream.com/ondemand/od3/bein1/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/2c538908cb0655c22.png",BEIN2
+https://cdn-la2.aws-stream.com/ondemand/od3/bein2/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/394362aa7f262887f.png",BEIN3
+https://cdn-la2.aws-stream.com/ondemand/od3/bein3/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/4dfa4e26713b8d04c.png",BEIN4
+https://cdn-la2.aws-stream.com/ondemand/od3/bein4/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/5e3379acfb2a357bd.png",BEIN5
+https://cdn-la2.aws-stream.com/ondemand/od3/bein5/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/676683cf77ea195ac.png",BEIN6
+https://cdn-la2.aws-stream.com/ondemand/od3/bein6/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/72181f68b907a3be2.png",BEIN7
+https://cdn-la2.aws-stream.com/ondemand/od3/bein7/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/8c4819793d68e740d.png",BEIN8
+https://cdn-la2.aws-stream.com/ondemand/od3/bein8/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/1f6b87bdc728f2fe3.png",SPOTV1
+https://cdn-la2.aws-stream.com/ondemand/od3/spotv/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/2c353ed581f56476f.png",SPOTV2
+https://cdn-la2.aws-stream.com/ondemand/od3/spotv2/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/NBA4cefcf348a18f8ac.png",NBA
+https://cdn-la2.aws-stream.com/ondemand/od3/nba/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/NFL8289bab47de400ab.png",NFL
+https://cdn-la2.aws-stream.com/ondemand/od3/nfl/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img2.pic.in.th/pic/MUTV.png",MUTV
+https://cdn-la2.aws-stream.com/ondemand/od3/mutv/video.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="truepremierfootball7.th" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1708490904.png",FIGHT SPORTS
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
 
 
 <==========PeacockTV==========>
