@@ -3,17 +3,4 @@
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://iptv.darktv.in:80/play/live.php?mac=00:1a:79:7c:5f:29&stream=106154&extension=m3u8
-
-#EXTM3U
-#EXTINF:-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML%2C like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186511&extension=m3u8
-#http://lol.bz:2095/live/yhyuFQjW/hNEMugpa/115715.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186511&extension=m3u8
+http://206.212.244.71:8080/live/4wVQA7/625159/159980.m3u8
