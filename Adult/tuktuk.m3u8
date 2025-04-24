@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://xtv.ooo:8080/live/Sahiwal/Pakistan/223057.m3u8
+http://xtv.ooo:8080/live/Sahiwal/Pakistan/223057.ts
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3200000
-http://xtv.ooo:8080/live/danyear12/am809100/376529.m3u8
+http://xtv.ooo:8080/live/danyear12/am809100/376529.ts
